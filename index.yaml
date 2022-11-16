@@ -3,6 +3,16 @@ entries:
   gabschart:
   - apiVersion: v2
     appVersion: 1.48.1
+    created: "2022-11-16T09:25:47.761768076Z"
+    description: A Helm chart for Kubernetes
+    digest: 68f1b1597f1d8085c1e674269b4bb303cf936876ab3b9f48e3059d7944b120aa
+    name: gabschart
+    type: application
+    urls:
+    - https://github.com/chris-sun-star/harness-helm-charts/releases/download/gabschart-20.0.3/gabschart-20.0.3.tgz
+    version: 20.0.3
+  - apiVersion: v2
+    appVersion: 1.48.1
     created: "2022-11-16T09:18:27.038128233Z"
     description: A Helm chart for Kubernetes
     digest: 000b72ac10baf41d1a3ce70cf2e59e9d7645e719dfb26b34b60d6dec2b37aa50
